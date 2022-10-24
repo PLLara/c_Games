@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.css": "css",
+        "limits": "c",
+        "cmath": "c",
+        "type_traits": "c",
+        "typeinfo": "c",
+        "raylib.h": "c",
+        "math.h": "c",
+        "stdlib.h": "c",
+        "models.c": "cpp",
+        "draw.c": "cpp",
+        "draw.h": "c",
+        "models.h": "c",
+        "stdio.h": "c"
+    }
+}
